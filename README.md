@@ -5,7 +5,7 @@ Thank you for taking this assessment. We will have you work with a sample Pet Ad
 
 We'll outline below the current features and ask you to implement some new information on our pets.
 
-The intent here is to get as far as you can within 2-4 hours. Please don't feel like you need to spend anymore time on it.
+**The intent here is to get as far as you can within 2-4 hours. Please don't feel like you need to spend anymore time on it.**
 
 There are no tests currently, you may choose MiniTest or Rspec and create tests as you develop the new features. We'll also ask you to use an external API to use one of our
 pets and get more information.
