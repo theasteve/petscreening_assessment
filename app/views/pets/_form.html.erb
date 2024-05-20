@@ -27,6 +27,13 @@
   </div>
 
   <div>
+    <%= form.label :weight, style: "display: block" %>
+    <%= form.number_field :weight, min: 0 %>
+    <p>Weight will be recorded in pounds</p>
+  </div>
+
+
+  <div>
     <%= form.submit %>
   </div>
 <% end %>
